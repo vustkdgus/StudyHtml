@@ -19,8 +19,8 @@ HTML 기본학습
     - SUL4
 
 
-- [ ] 학습하기
-- [x] 복습하기
+* [ ] 학습하기
+* [x] 복습하기
 
 ```csharp
 using System.IO;
