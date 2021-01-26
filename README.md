@@ -31,7 +31,7 @@ namespace HelloWorldApp {
 }
 ```
 
-![실행결과](https://github.com/vustkdgus/StudyHtml/blob/main/ref_images/console_result.png)
+![실행결과](https://github.com/vustkdgus/StudyHtml/blob/main/ref_images/console_result.png "실행결과")
 
 참조링크
 -------------
