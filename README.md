@@ -18,7 +18,7 @@ HTML 기본학습
     - SUL3
     - SUL4
 
-```java
+```csharp
 using System.IO;
 
 namespace HelloWorldApp {
