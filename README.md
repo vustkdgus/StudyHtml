@@ -6,7 +6,8 @@ HTML 기본학습
 
 ### HTML이란?
 개요에 대해서 학습합니다 
-1. Hyper Text Markup Language 정의
+<ul> 1. Hyper Text Markup Language 정의 </ul>
+<ul> 2. Hyper Text Markup Language 정의 </ul>
 2. HTML 역사
 3. HTML5의 차이점
 
