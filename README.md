@@ -1,6 +1,7 @@
 # HTML 학습 리포지토리
 HTML5 CSS3, JS 학습용 리포지토리
 
+>마크다운은 일반 텍스트 기반의 경량 마크업 언어다. 일반 텍스트로 서식이 있는 문서를 작성하는 데 사용되며, 일반 마크업 언어에 비해 문법이 쉽고 간단한 것이 특징이다.
 ## HTML5
 HTML 기본학습
 
@@ -12,7 +13,7 @@ HTML 기본학습
 
 - Hyper Text Markup Language 정의
 - __HTML__ _역사_
-- **HTML5**의 ~차이점~
+- **HTML5의 ~차이점~**
   - UL2
     - SUL3
     - SUL4
@@ -23,6 +24,9 @@ HTML 기본학습
 ## CSS3
 CSS 기본 학습
 
+>CSS is Cascading Style Sheets
+
+`테스트 코드`
 -------------------
 
 ## Javascript
