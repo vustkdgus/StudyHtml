@@ -34,7 +34,7 @@ namespace HelloWorldApp {
 참조링크
 -------------
 
-- [Google](https://google.com, "google link")
+- [Google](https://google.com, "google로 이동")
 - [Naver](https://naver.com)
 - [Google](https://google.com, "google link")
 
