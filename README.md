@@ -31,6 +31,8 @@ namespace HelloWorldApp {
 }
 ```
 
+![실행결과](/path/to/img.jpg)
+
 참조링크
 -------------
 
