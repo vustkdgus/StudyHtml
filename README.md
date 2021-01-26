@@ -10,7 +10,7 @@ HTML 기본학습
 2. HTML 역사
 3. HTML5의 차이점
 
-<li> - Hyper Text Markup Language 정의 </li>
+- Hyper Text Markup Language 정의
 - HTML 역사
 - HTML5의 차이점
 
