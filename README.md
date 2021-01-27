@@ -5,9 +5,11 @@ HTML5 CSS3, JS 학습용 리포지토리
 ## HTML5
 HTML 기본학습
 
+[HTML소스]<https://github.com/vustkdgus/StudyHtml/blob/main/01_HTML/index.html>
+
 ### HTML이란?
 
-[HTML소스]<https://github.com/vustkdgus/StudyHtml/blob/main/01_HTML/index.html>
+
 -------------------
 
 ## CSS3
