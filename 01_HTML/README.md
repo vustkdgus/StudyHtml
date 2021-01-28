@@ -4,7 +4,7 @@
 태그, 요소, 속성에 의미 이해 및 HTML, CSS, JS 작성방법 따라하기
 
 ## HTML5 기본 태그
--
+---------------------html
 <!DOCTYPE html>
 <html>
 <head>
