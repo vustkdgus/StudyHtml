@@ -8,6 +8,10 @@
     box-shadow: 0 2px 3px rgba(34, 25, 25, 0.5);
 }
 
+.paper-holder img {
+    border-radius: 7px;
+}
+
 .paper-description {
     margin: 10px 0;
 }

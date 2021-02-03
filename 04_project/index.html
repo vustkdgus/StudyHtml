@@ -34,31 +34,31 @@
                 });
             });
         
-            //라이트 박스
-            $(".paper").click(function() {showLightBox(); })
-            $("#darken-background").click(function() {hideLightBox(); });
+            // 라이트박스
+            $(".paper").click(function() { showLightBox(); });
+            $("#darken-background").click(function() { hideLightBox(); });
+            // 라이트박스이벤트 서포트 // 하얀영역을 클릭해도 라이트박스꺼지는 걸 방지
             $("#lightbox").click(function (event) {
-                event.stopPropagation();
+               event.stopPropagation();
             });
         });
-        // function showLightBox() {
-        //     $("#random-image").attr({
-        //             src: function() {
-        //                 var rnd_height = Math.floor(Math.random * 600) + 10;
-        //                 return "https://placekitten.com/600/" + rnd_height;
-        //             }
-        // });
 
         function showLightBox() {
+            $("#ramdom-image").attr({
+                src: function() {
+                    var rnd_height = 500 + Math.floor(Math.random() * 100);
+                    return "https://placekitten.com/600/" + rnd_height;
+                }
+            });
             $("#darken-background").show();
             $("#darken-background").css("top", $(window).scrollTop());
             $("body").css('overflow', 'hidden');
         }
+
         function hideLightBox() {
             $("#darken-background").hide();
-            $("body").css('overflow', 'auto'); //더 정확
+            $("body").css('overflow', 'auto'); // 정확
         }
-
         
     </script>
 </head>
