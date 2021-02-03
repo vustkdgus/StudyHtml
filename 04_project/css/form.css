@@ -124,3 +124,10 @@
     display: inline block;
 
 }
+
+#buttonP{
+    font-size: 15px;
+    color: #4374D9;
+    font-weight: bold;
+    cursor: pointer;
+}
