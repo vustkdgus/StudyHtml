@@ -49,14 +49,14 @@
 }
 
 /* 네 줄 */
-@media (min-width: 920px)and(max-width:1149px) {
+@media (min-width: 920px) and (max-width:1149px) {
     #main-section {
         width: 920px;
     }
 }
 
 /* 다섯 줄 */
-@media (min-width: 1150px)and(max-width:1379px) {
+@media (min-width: 1150px) and (max-width:1379px) {
     #main-section {
         width: 1150px;
     }
