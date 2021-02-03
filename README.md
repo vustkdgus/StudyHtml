@@ -20,8 +20,7 @@ CSS 기본 학습
 -------------------
 
 ## Javascript
-Javascript 기본 학습
-
+Javascript 기본 학습 <br>
 [Javascript소스](https://github.com/vustkdgus/StudyHtml/tree/main/03_Javascript)
 -------------------
 
