@@ -51,7 +51,7 @@
 /* 네 줄 */
 @media (min-width: 920px)and(max-width:1149px) {
     #main-section {
-        width: 1150px;
+        width: 920px;
     }
 }
 
