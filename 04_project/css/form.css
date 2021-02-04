@@ -5,9 +5,7 @@
     position: relative;
 }
 
-.header-search-form {
-    float: left;
-}
+
 
 .header-menu {
     float: right;
@@ -67,7 +65,7 @@
 /* 메인 네비게이션 */
 #main-navigation {
     height: 30px;
-    background-color: #faf7f7;
+    background-color: #CEFBC9;
     border-top: 1px solid #cfcaca;
     box-shadow: 1px 3px 3px rgba(34, 25, 25, 0.4);
 }
@@ -96,6 +94,7 @@
 .header-search-form {
     height: 26px;
     padding: 7px;
+    float: right;
 }
 
 .input-search {
