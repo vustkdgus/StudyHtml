@@ -89,6 +89,7 @@
     background-color: rgba(0, 0, 0, 0.9);
     z-index: 10000;
     overflow-y: scroll;
+ 
 }
 
 #lightbox {
@@ -152,4 +153,8 @@
     text-align: left;
     margin: 0 auto;
     padding: 0 20px;
+}
+
+#menu_name {
+    font-size: 16px;
 }

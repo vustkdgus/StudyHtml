@@ -63,7 +63,7 @@
         
         $(function(){
             $("#buttonP").click(function(){
-                var ranNum = 60 + Math.floor(Math.random() * 30);
+                var ranNum = 60 + Math.floor(Math.random() * 40);
                 // var ranNum = Math.random();
                 $("#ranNaum").text(ranNum);
                 $("#ranNaum").show();
@@ -76,7 +76,7 @@
 <body>
     <header id="main-header">
         <div class="header-search-form">
-            <form>
+            <form id="search_bar">
                 <input type="search" class="input-search">
                 <input type="submit" class="input-submit" value="검색">
             </form>
@@ -85,7 +85,7 @@
         <div class="header-menu">
             <ul class="outer-menu">
                 <li>
-                    <a href="#">정보</a>
+                    <a href="#" id="menu_name">정보</a>
                     <ul class="inner-menu">
                         <li><a href="#">고양이사진</a></li>
                         <li><a href="#">고양이백과</a></li>
@@ -96,7 +96,7 @@
             </ul>
             <ul class="outer-menu">
                 <li>
-                    <a href="#">사용자</a>
+                    <a href="#" id="menu_name">사용자</a>
                     <ul class="inner-menu">
                         <li><a href="#">사용자아이디</a></li>
                         <li><a href="#">회원정보수정</a></li>
@@ -107,7 +107,7 @@
             </ul>
             <ul class="outer-menu">
                 <li>
-                    <a href="#">언어</a>
+                    <a href="#" id="menu_name">언어</a>
                     <ul class="inner-menu" id="country_id">
                         <li><a href="#"><img id="country" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/225px-Flag_of_South_Korea.svg.png"> 한국</a></li>
                         <li><a href="#"><img id="country" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/285px-Flag_of_the_United_States.svg.png"> 미국</a></li>
@@ -233,7 +233,7 @@
         </div>
         <div class="paper">
             <div class="papaer-holder">
-                <a><img width="190" src="https://placekitten.com/190/188"></a>
+                <a><img width="190" src="https://img1.daumcdn.net/thumb/R720x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fliveboard%2Fpetzzi%2F2c7470d79a9c4bd889253562d6a971ff.jpg"></a>
             </div>
             <p class="paper-description">Cute Cat</p>
             <div class="paper-content">
@@ -399,7 +399,7 @@
                 <div class="user-information-text">
                     <h3>내 고양이의 귀여움지수</h3>
                     <p id="buttonP">귀여움지수 확인</p>
-                <p class="Cuteness1"><b>Cuteness : <span id="ranNaum"></span> </b></p> 
+                <p class="Cuteness1"><b>Cuteness : <span id="ranNaum"></span> score </b></p> 
                 </div>
             </div>
             <hr class="lightbox-splitter">
