@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HTML학습%20&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=HTML학습%20&fontSize=50&animation=fadeIn&fontAlignY=38)
 <p align='center'><b> HTML 학습 리포지토리 </b></p>
 <p align='center'>
    <br>
