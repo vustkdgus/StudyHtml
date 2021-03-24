@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=HTML학습%20&fontSize=50&animation=fadeIn&fontAlignY=38)
-<p align='center'><b> HTML 학습 리포지토리 </b></p>
+<p align='center'><b> HTML5 CSS3, JS 학습용 리포지토리 </b></p>
 <p align='center'>
    <br>
     <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
@@ -9,7 +9,7 @@
 <br>
 <br>
 
-HTML5 CSS3, JS 학습용 리포지토리
+
 
 
 ## HTML5
